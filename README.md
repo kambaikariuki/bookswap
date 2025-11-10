@@ -69,6 +69,7 @@ BookSwap is a Flutter-based mobile application that allows users to swap books w
 **Clone the repository:**
 
 git clone https://github.com/kambaikariuki/bookswap.git
+
 cd bookswap
 
 **Install dependencies:**
